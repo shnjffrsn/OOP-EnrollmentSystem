@@ -16,7 +16,7 @@ public class Main {
 
         Course course = new Course();
         course.setCourseID("123372");
-        course.setCourseName("Intercourse");
+        course.setCourseName("Inteprog");
         course.setProgram("BSIT");
         System.out.println("Course ID: " + course.courseID);
         System.out.println("Course Name: " + course.courseName);
